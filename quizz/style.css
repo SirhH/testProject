@@ -1,0 +1,14 @@
+body {
+    background-color: #666;
+    font-family: sans-serif;
+    color: #222;
+}
+
+a {
+    color: #111;
+    cursor: pointer;
+}
+
+.hidden, .hidden *{
+    display: none;
+}
